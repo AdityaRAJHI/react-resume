@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 1.5rem;
+  }
+  
+  .header nav a {
+    margin: 0 10px;
+    color: #00bcd4;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
