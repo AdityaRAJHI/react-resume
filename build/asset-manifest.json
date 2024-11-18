@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.2b575050.css",
+    "main.js": "/react-resume/static/js/main.dbfc1704.js",
+    "static/js/453.3c10c9ab.chunk.js": "/react-resume/static/js/453.3c10c9ab.chunk.js",
+    "index.html": "/react-resume/index.html",
+    "main.2b575050.css.map": "/react-resume/static/css/main.2b575050.css.map",
+    "main.dbfc1704.js.map": "/react-resume/static/js/main.dbfc1704.js.map",
+    "453.3c10c9ab.chunk.js.map": "/react-resume/static/js/453.3c10c9ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b575050.css",
+    "static/js/main.dbfc1704.js"
+  ]
+}
