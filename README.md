@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-https://curly-orbit-7g4w5jgj9jw3p7v-3000.app.github.dev/
+https://b_deBkj63YTxf.v0.build/
 
-https://adityarajhi.github.io/react-resume/
+build note-: https://adityarajhi.github.io/react-resume/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
